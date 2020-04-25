@@ -1,3 +1,3 @@
 # Get-Weather-App
 
-This app allows you to receive real-time weather conditions of cities from around the world.
+This GUI app allows the user to receive real-time weather conditions of cities from around the world. Simply search for any city by name, additionally the user can add the country abbreviation for more specific searches.
